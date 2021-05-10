@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="pc-form-comment">
-      <h3 class="title">{{ $t('cloudpivot.formComment.pc.writeComment') }}</h3>
+      <h3 class="title">写评论</h3>
       <div class="text-box">
         <div class="textarea-box">
           <!-- <fakeTextarea v-model="comment" :max="2000" :isShowLimit="false" /> -->
@@ -53,44 +53,44 @@
     comment:any = '';
     members:any = [
       {
-        "id":"8a28860d7908338901790842e73e0013",
+        "id":"1",
         "name":"小圆妹",
         "type":3,
         "imgUrl":null
       },
       {
-        "id":"8a28860d7908338901790843ad0a0017",
+        "id":"2",
         "name":"小圆宝宝",
         "type":3,
         "imgUrl":null
       },
       {
-        "id":"8a28860d7908a903017908af0ec200a1",
+        "id":"3",
         "name":"2342",
         "type":3,
         "imgUrl":null
       },
       {
-        "id":"8a28860d790c1f9a01790d1b5bbf0aa8",
+        "id":"4",
         "name":"忙忙1",
         "type":3,
         "imgUrl":null
       },
       {
-        "id":"8a28860d790c1f9a01790d9c10d00dbf",
+        "id":"5",
         "name":"测试用户",
         "type":3,
         "imgUrl":null
       },
       {
-        "id":"8a28860d7944dbc00179463567c8046c",
+        "id":"6",
         "name":"忙忙2",
         "type":3,
         "imgUrl":null
       },
       {
-        "id":"8a28860d7944dbc001795560aa1c19c6",
-        "name":"王丹",
+        "id":"7",
+        "name":"dd",
         "type":3,
         "imgUrl":null
       }
